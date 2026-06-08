@@ -2,7 +2,7 @@
 
 # José Sousa
 
-**Engenharia de Sistemas Informáticos · IPCA**
+**Engenharia de Sistemas Informáticos**
 
 ```
 [ Desenvolvimento de Software ]──[ Arquitetura de Sistemas ]──[ Cibersegurança ]
@@ -24,13 +24,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-
-**Ferramentas**
-
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
 
 
 ## 🌐 Contacto
