@@ -2,15 +2,19 @@
 
 # José Sousa
 
-**Engenharia de Sistemas Informáticos · IPCA**
+**Engenharia de Sistemas Informáticos**
 
-Estudante de Engenharia de Sistemas Informáticos com interesse em desenvolvimento de software e arquitetura de sistemas. Orientado para a resolução de problemas com foco na qualidade e eficiência das soluções.
+```
+[ Desenvolvimento de Software ]──[ Arquitetura de Sistemas ]──[ Cibersegurança ]
+```
+
+*Aspiring software engineer with a growing interest in cybersecurity and secure systems design.*
 
 </div>
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Stack
 
 **Linguagens**
 
@@ -21,20 +25,13 @@ Estudante de Engenharia de Sistemas Informáticos com interesse em desenvolvimen
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Ferramentas & Plataformas**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-
 
 ## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/josé-sousa-b24b41369)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-sousa-b24b41369)
 
 ---
 
 <div align="center">
-<sub>📍 Braga, Portugal · Disponível para estágio curricular em 2027</sub>
+<sub>📍 Braga, Portugal &nbsp;·&nbsp; Disponível para estágio curricular em 2027</sub>
 </div>
