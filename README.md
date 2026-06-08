@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[ Desenvolvimento de Software ]──[ Arquitetura de Sistemas ]──[ Cibersegurança ]
+**[ Desenvolvimento de Software ]──[ Arquitetura de Sistemas ]──[ Cibersegurança ]*
 
 </div>
 
