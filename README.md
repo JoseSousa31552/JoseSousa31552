@@ -27,14 +27,7 @@ Estudante de Engenharia de Sistemas Informáticos com interesse em desenvolvimen
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
----
 
-## 📌 Projetos em Destaque
-
-> *(Fixa aqui os teus melhores repositórios usando a opção "Pin repository" no GitHub)*
-
----
----
 
 ## 📫 Contacto
 
