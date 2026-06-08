@@ -4,9 +4,11 @@
 
 **Engenharia de Sistemas Informáticos**
 
+<div align="center">
 ```
 [ Desenvolvimento de Software ]──[ Arquitetura de Sistemas ]──[ Cibersegurança ]
 ```
+</div>
 
 *Aspiring software engineer with a growing interest in cybersecurity and secure systems design.*
 
